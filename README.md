@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Ji, I'm Harini.<br>🎓 Computer Science student with a passion for technology and continuous learning.<br>💻 Interested in Java, Python, SQL, and Data Analytics.<br>📊 Exploring Artificial Intelligence, Machine Learning, and problem-solving through real-world applications.<br>🌱 Always eager to learn new technologies, contribute to meaningful projects, and grow as a software developer.<br>
+👋Hi, I'm Harini.<br>🎓 Computer Science student with a passion for technology and continuous learning.<br>💻 Interested in Java, Python, SQL, and Data Analytics.<br>📊 Exploring Artificial Intelligence, Machine Learning, and problem-solving through real-world applications.<br>🌱 Always eager to learn new technologies, contribute to meaningful projects, and grow as a software developer.<br>
 
 
 ## 🌐 Socials:
